@@ -1,3 +1,4 @@
+# much (some) of this code isn't mine
 import PIL.Image, numpy, scipy.misc, scipy.ndimage, scipy.spatial
 import time, sys, random, math, functools, collections
 
