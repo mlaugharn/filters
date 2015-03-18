@@ -1,4 +1,4 @@
 filters
 =======
 
-functional image processing in python (currently this is a lie)
+functional image processing in python (currently broken)
